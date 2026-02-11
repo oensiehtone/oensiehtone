@@ -14,8 +14,8 @@ I am seeking a cyber security–focused role such as a **SOC Analyst, Cyber Secu
 ### TM470 – Cloud Penetration Testing and Defensive Mitigation
 **Final-year computing project demonstrating practical cyber security skills:**
 
-- Created a virtualised cloud environment using **Proxmox, Zentyal, and Nextcloud**  
-- Simulated a **Man-in-the-Cloud (MiTC) attack**  
+- Created a virtualised cloud environment using Proxmox, Zentyal, and Nextcloud
+- Simulated a Man-in-the-Cloud (MiTC) attack
 - Evaluated defensive controls with IDS/IPS and log monitoring  
 - Conducted risk assessment, implemented mitigations, and performed post-remediation evaluation  
 
