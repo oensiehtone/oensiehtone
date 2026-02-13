@@ -10,7 +10,7 @@ I am seeking a security-focused role such as SOC Analyst, Cyber Security Analyst
 ---
 
 ## Featured Project  
-# **Final Module (TM470) – Cloud Penetration Testing and Defensive Mitigation**
+# **Module TM470 – Cloud Penetration Testing and Defensive Mitigation**
 
 A final-year cyber security project demonstrating practical offensive and defensive security skills through a full cloud attack simulation and remediation cycle.
 
