@@ -10,23 +10,23 @@ I am seeking a security-focused role such as SOC Analyst, Cyber Security Analyst
 ---
 
 ## Featured Project  
-# **TM470 – Cloud Penetration Testing and Defensive Mitigation**
+# **Final Module (TM470) – Cloud Penetration Testing and Defensive Mitigation**
 
-A final-year cyber security project demonstrating practical offensive and defensive security skills through a full cloud attack simulation and remediation process.
+A final-year cyber security project demonstrating practical offensive and defensive security skills through a full cloud attack simulation and remediation cycle.
 
 ### **Project Highlights**
-- Built a virtualised cloud environment using **Proxmox**, **Zentyal**, and **Nextcloud**
-- Simulated a **Man-in-the-Cloud (MitC)** attack from end to end
-- Evaluated defensive controls using **IDS/IPS** and log monitoring
-- Conducted a full **risk assessment**, implemented mitigations, and re-tested the environment
-- Demonstrated both offensive techniques and defensive hardening
+- Built a virtualised cloud environment using **Proxmox**, **Zentyal**, and **Nextcloud**.  
+- Simulated a full **Man-in-the-Cloud (MitC)** attack, including token capture and API-based data exfiltration.  
+- Evaluated defensive controls using IDS/IPS and log monitoring.  
+- Performed a complete risk assessment, implemented security mitigations, and re-tested the environment.  
+- Demonstrated both offensive techniques and defensive hardening.
 
 **[Explore the Project Folder](Cloud_Pentest_Simulation/)**
 
 ### **Artifacts Included**
 - Architecture diagrams  
 - Network layouts  
-- Attack walk-throughs  
+- Attack walkthroughs  
 - Screenshots (MitC exploitation, token capture, IDS output)  
 - Configuration details (IAM, client sync, server setup)  
 - Mitigation tables and evaluation notes  
@@ -34,9 +34,9 @@ A final-year cyber security project demonstrating practical offensive and defens
 ---
 
 ## Education & Certifications
-- **BSc (Hons) Cyber Security – 2:1**
-- **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
-- **Microsoft Certified: Azure Fundamentals**
+- **BSc (Hons) Cyber Security – 2:1**  
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals**  
+- **Microsoft Certified: Azure Fundamentals**  
 
 ---
 
