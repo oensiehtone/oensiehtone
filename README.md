@@ -33,7 +33,3 @@ My final-year cyber security project demonstrates practical offensive exploitati
 - **BSc (Hons) Cyber Security – 2:1**  
 - **Microsoft Certified: Security, Compliance, and Identity Fundamentals**  
 - **Microsoft Certified: Azure Fundamentals**  
-
----
-
-This repository showcases hands-on cyber security work, focusing on practical offensive testing, defensive mitigation, identity management, and incident detection.
